@@ -1,0 +1,15 @@
+﻿  Bank_system.cpp
+F:\OOP_Projects\Bank_System\Bank_system\clsString.h(36,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsString.h(41,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsString.h(53,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsString.h(190,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsString.h(321,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsString.h(365,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsInputValidate.h(112,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\clsInputValidate.h(116,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\BankClient.h(30,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\BankClient.h(326,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\BankClient.h(332,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\BankClient.h(361,71): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\OOP_Projects\Bank_System\Bank_system\BankClient.h(322): warning C4715: 'clsBankClient::Save': not all control paths return a value
+  Bank_system.vcxproj -> F:\OOP_Projects\Bank_System\Bank_system\x64\Debug\Bank_system.exe
